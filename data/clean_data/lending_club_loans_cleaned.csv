@@ -6511,7 +6511,6 @@ False,6000.0,36 months,10.65,B2,15.41,700.0,0,1 year,RENT,Not Verified,CA,45000,
 False,24000.0,36 months,13.49,C1,22.13,700.0,0,10+ years,MORTGAGE,Verified,CA,84000,2011
 False,7700.0,36 months,11.71,B3,16.43,715.0,0,3 years,MORTGAGE,Source Verified,NC,46000,2011
 False,7000.0,36 months,6.03,A1,11.3,790.0,0,5 years,MORTGAGE,Source Verified,IL,70000,2011
-False,12025.0,36 months,14.27,C2,1.31,670.0,0,10+ years,RENT,Not Verified,NY,1782000,2011
 False,5600.0,36 months,6.62,A2,7.23,750.0,0,2 years,MORTGAGE,Source Verified,NC,70000,2011
 True,20000.0,36 months,16.77,D2,11.64,690.0,0,5 years,RENT,Verified,CA,53000,2011
 True,25000.0,60 months,18.64,E1,23.41,685.0,0,1 year,RENT,Verified,CA,55000,2011
@@ -22271,7 +22270,6 @@ False,18000.0,36 months,8.88,B1,18.38,720.0,0,4 years,RENT,Verified,NY,50000,201
 False,5000.0,36 months,10.36,B5,4.08,690.0,0,3 years,RENT,Not Verified,CA,42016,2010
 False,20000.0,36 months,6.17,A3,12.51,790.0,0,10+ years,MORTGAGE,Verified,WI,210000,2010
 False,3800.0,36 months,9.99,B4,24.02,685.0,0,10+ years,MORTGAGE,Not Verified,NM,48000,2010
-False,1500.0,36 months,6.17,A3,0.57,735.0,0,5 years,MORTGAGE,Source Verified,TX,1900000,2010
 False,12000.0,36 months,5.79,A2,8.55,755.0,0,10+ years,MORTGAGE,Source Verified,CA,70000,2010
 False,8800.0,60 months,10.36,B5,4.6,745.0,0,3 years,OWN,Source Verified,CA,48000,2010
 False,12000.0,60 months,13.72,C5,6.42,740.0,0,3 years,RENT,Not Verified,NY,75000,2010
@@ -22866,7 +22864,6 @@ True,22000.0,60 months,18.91,F4,13.55,675.0,0,4 years,RENT,Verified,NC,48000,201
 False,15250.0,36 months,15.95,E1,19.46,665.0,0,4 years,MORTGAGE,Not Verified,MN,50000,2010
 False,10000.0,36 months,6.54,A4,21.1,740.0,0,7 years,MORTGAGE,Source Verified,NM,98000,2010
 True,15000.0,60 months,15.95,E1,12.83,685.0,0,10+ years,RENT,Source Verified,CA,53040,2010
-False,25000.0,60 months,15.2,D4,0.41,715.0,0,10+ years,RENT,Source Verified,LA,1200000,2010
 True,9000.0,36 months,13.72,C5,16.55,660.0,0,< 1 year,MORTGAGE,Not Verified,TX,39000,2010
 False,20000.0,60 months,8.88,B1,21.62,735.0,0,10+ years,RENT,Verified,TX,100000,2010
 False,6000.0,36 months,14.46,D2,1.65,660.0,0,1 year,RENT,Not Verified,CA,48000,2010
@@ -24409,7 +24406,6 @@ False,6500.0,36 months,16.32,D5,9.89,660.0,0,3 years,RENT,Not Verified,NY,50000,
 False,9250.0,36 months,17.19,E3,22.01,660.0,0,< 1 year,OWN,Verified,IL,32004,2010
 False,6000.0,36 months,15.21,D2,5.74,660.0,0,7 years,MORTGAGE,Verified,OH,28000,2010
 False,9600.0,36 months,7.51,A4,16.18,735.0,0,8 years,MORTGAGE,Verified,OH,80000,2010
-False,12000.0,36 months,7.51,A4,9.17,765.0,0,1 year,MORTGAGE,Not Verified,NJ,1200000,2010
 False,16700.0,36 months,7.51,A4,21.66,775.0,0,4 years,MORTGAGE,Verified,FL,39000,2010
 False,4000.0,36 months,7.14,A3,6.23,735.0,0,5 years,RENT,Not Verified,NY,78000,2010
 False,25000.0,60 months,13.98,C3,11.16,715.0,0,10+ years,MORTGAGE,Verified,VA,220000,2010
@@ -26178,7 +26174,6 @@ False,12000.0,60 months,13.23,C1,20.76,730.0,0,3 years,MORTGAGE,Source Verified,
 False,4500.0,36 months,7.14,A3,14.27,740.0,0,3 years,MORTGAGE,Source Verified,PA,45000,2010
 False,4200.0,36 months,13.23,C1,1.46,685.0,1,7 years,MORTGAGE,Not Verified,OH,42000,2010
 False,20000.0,36 months,10.38,B1,9.13,750.0,0,< 1 year,MORTGAGE,Verified,CA,120000,2010
-False,5600.0,60 months,13.61,C2,1.22,695.0,0,10+ years,MORTGAGE,Source Verified,MD,1176000,2010
 False,5000.0,36 months,11.86,B5,9.55,720.0,0,2 years,RENT,Not Verified,CA,67596,2010
 False,15000.0,36 months,10.75,B2,11.64,725.0,0,4 years,RENT,Source Verified,IL,59200,2010
 False,6500.0,36 months,7.51,A4,1.5,805.0,0,10+ years,MORTGAGE,Source Verified,KY,38500,2010
@@ -27482,7 +27477,6 @@ True,7750.0,60 months,13.98,C3,18.72,690.0,0,10+ years,MORTGAGE,Source Verified,
 False,2400.0,36 months,7.88,A5,14.68,715.0,0,< 1 year,RENT,Source Verified,CA,52000,2010
 False,2500.0,36 months,6.39,A1,11.24,770.0,0,10+ years,RENT,Source Verified,MA,34800,2010
 False,4975.0,36 months,14.72,C5,6.76,670.0,0,10+ years,MORTGAGE,Verified,LA,17760,2010
-False,4500.0,60 months,7.88,A5,0.57,770.0,0,8 years,MORTGAGE,Source Verified,MD,1080000,2010
 False,25000.0,60 months,11.86,B5,11.19,755.0,0,3 years,MORTGAGE,Verified,GA,65000,2010
 False,2000.0,36 months,10.38,B1,11.29,710.0,0,10+ years,MORTGAGE,Not Verified,FL,96000,2010
 False,24000.0,60 months,11.86,B5,18.2,735.0,0,10+ years,RENT,Verified,LA,100000,2010
@@ -28193,7 +28187,6 @@ True,3600.0,60 months,15.7,D4,22.89,665.0,0,5 years,RENT,Verified,NY,38004,2010
 False,6000.0,36 months,7.88,A5,18.95,720.0,0,< 1 year,RENT,Not Verified,CA,72000,2010
 True,16000.0,60 months,16.82,E2,22.56,675.0,0,10+ years,OWN,Verified,CA,55000,2010
 False,7200.0,60 months,6.76,A2,21.07,770.0,0,7 years,MORTGAGE,Not Verified,OH,18000,2010
-False,25000.0,60 months,10.62,B3,0.2,775.0,0,3 years,MORTGAGE,Not Verified,NM,3900000,2010
 False,8000.0,60 months,17.19,E3,19.1,670.0,0,8 years,OWN,Not Verified,CA,79800,2010
 False,14400.0,36 months,9.88,B1,23.21,730.0,0,3 years,MORTGAGE,Not Verified,FL,67000,2010
 False,10000.0,36 months,7.51,A4,9.22,760.0,0,2 years,RENT,Not Verified,NJ,33280,2010
@@ -28646,7 +28639,6 @@ True,5000.0,36 months,13.48,C3,13.44,675.0,0,8 years,MORTGAGE,Not Verified,CO,30
 True,5000.0,36 months,14.96,D2,22.29,675.0,0,6 years,OWN,Source Verified,NJ,33000,2010
 False,6000.0,36 months,7.51,A4,18.47,740.0,0,10+ years,OWN,Not Verified,NJ,54000,2010
 False,7000.0,36 months,7.14,A3,13.53,750.0,0,5 years,MORTGAGE,Not Verified,VA,47000,2010
-False,5000.0,36 months,12.73,C1,0.01,710.0,0,10+ years,MORTGAGE,Source Verified,CA,6000000,2010
 False,2800.0,36 months,16.07,D5,5.0,690.0,0,1 year,MORTGAGE,Not Verified,OH,24000,2010
 False,2650.0,36 months,9.88,B1,9.31,705.0,0,1 year,MORTGAGE,Not Verified,CA,60589,2010
 False,5000.0,36 months,9.88,B1,11.36,720.0,0,5 years,OWN,Not Verified,AL,16800,2010
@@ -31897,7 +31889,6 @@ False,3000.0,36 months,13.22,C2,22.74,675.0,0,8 years,MORTGAGE,Not Verified,AL,3
 False,10000.0,36 months,11.14,B1,10.79,720.0,0,9 years,RENT,Not Verified,CA,170000,2009
 False,12000.0,36 months,13.22,C2,3.7,765.0,0,< 1 year,RENT,Not Verified,NJ,26237,2009
 True,5000.0,36 months,13.22,C2,3.26,685.0,0,2 years,RENT,Not Verified,FL,50000,2009
-False,10000.0,36 months,7.74,A3,0.8,805.0,0,1 year,MORTGAGE,Not Verified,NY,1200000,2009
 False,9000.0,36 months,8.59,A4,21.99,760.0,0,< 1 year,RENT,Not Verified,SC,44700,2009
 False,3000.0,36 months,11.83,B3,23.93,710.0,0,4 years,RENT,Not Verified,CA,48000,2009
 False,5000.0,36 months,12.87,C1,8.7,690.0,0,2 years,OWN,Not Verified,CT,36000,2009
@@ -32447,7 +32438,6 @@ False,24250.0,36 months,15.31,D3,9.71,680.0,0,9 years,OWN,Not Verified,CT,127500
 False,8000.0,36 months,13.22,C2,17.01,690.0,0,3 years,RENT,Not Verified,CA,61000,2009
 False,3100.0,36 months,8.94,A5,21.75,715.0,0,10+ years,MORTGAGE,Not Verified,CT,48000,2009
 False,4325.0,36 months,7.74,A3,0.96,795.0,0,4 years,OWN,Not Verified,CA,95327,2009
-False,6400.0,36 months,7.4,A2,0.0,770.0,0,7 years,MORTGAGE,Not Verified,CA,1440000,2009
 True,12000.0,36 months,14.26,C5,15.78,705.0,0,4 years,RENT,Not Verified,MD,85000,2009
 False,5000.0,36 months,11.14,B1,2.84,710.0,1,3 years,RENT,Not Verified,FL,38400,2009
 False,4000.0,36 months,13.22,C2,2.47,700.0,0,< 1 year,RENT,Not Verified,FL,18000,2009
@@ -32769,7 +32759,6 @@ False,10000.0,36 months,11.48,B2,18.19,780.0,0,7 years,RENT,Not Verified,NY,3264
 False,24000.0,36 months,12.53,B5,17.9,730.0,0,9 years,OWN,Verified,OH,60000,2009
 False,2100.0,36 months,11.14,B1,6.75,710.0,0,< 1 year,OWN,Not Verified,NY,14400,2009
 False,15000.0,36 months,11.48,B2,8.84,735.0,0,6 years,RENT,Not Verified,CA,45600,2009
-False,6600.0,36 months,7.74,A3,0.62,780.0,0,9 years,MORTGAGE,Not Verified,CO,1362000,2009
 False,6500.0,36 months,15.65,D4,18.9,725.0,0,< 1 year,RENT,Not Verified,FL,20000,2009
 False,2500.0,36 months,13.92,C4,21.17,665.0,0,< 1 year,RENT,Not Verified,TX,42000,2009
 False,16000.0,36 months,11.83,B3,6.29,725.0,0,< 1 year,MORTGAGE,Not Verified,PA,204000,2009
@@ -37554,7 +37543,6 @@ False,15000.0,36 months,10.39,B4,8.92,710.0,0,10+ years,MORTGAGE,Not Verified,TX
 False,8400.0,36 months,11.97,C4,20.96,695.0,0,10+ years,RENT,Not Verified,GA,51420,2008
 False,10000.0,36 months,13.24,D3,18.2,670.0,0,2 years,RENT,Not Verified,CA,66000,2008
 True,21000.0,36 months,10.71,B5,2.9,720.0,0,2 years,RENT,Not Verified,UT,65000,2008
-False,8450.0,36 months,12.29,C5,0.13,670.0,0,< 1 year,RENT,Not Verified,FL,2039784,2008
 False,11000.0,36 months,11.34,C2,9.39,685.0,1,2 years,RENT,Not Verified,NY,52000,2008
 False,10000.0,36 months,8.63,A5,8.94,730.0,0,< 1 year,MORTGAGE,Not Verified,CT,60000,2008
 False,8800.0,36 months,12.29,C5,20.04,690.0,0,7 years,OWN,Not Verified,MD,50000,2008
@@ -38896,7 +38884,6 @@ False,15000.0,36 months,14.59,D1,20.78,725.0,0,9 years,OWN,Verified,CA,145000,20
 True,7750.0,36 months,13.11,C2,19.78,685.0,0,3 years,RENT,Verified,KY,25000,2010
 False,3000.0,36 months,10.25,B2,19.15,730.0,0,1 year,MORTGAGE,Not Verified,AL,25000,2010
 False,8000.0,36 months,15.7,D4,22.85,670.0,0,2 years,MORTGAGE,Not Verified,NH,31200,2010
-False,25000.0,36 months,19.79,F5,3.26,660.0,0,10+ years,MORTGAGE,Not Verified,NY,1440000,2010
 False,5600.0,36 months,15.33,D3,20.05,665.0,0,< 1 year,RENT,Not Verified,MT,24000,2010
 False,5000.0,36 months,12.73,C1,17.63,705.0,0,4 years,MORTGAGE,Not Verified,DE,75000,2010
 False,5500.0,36 months,13.48,C3,22.84,680.0,0,5 years,OWN,Not Verified,OH,26899,2010
